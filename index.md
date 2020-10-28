@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ysanne Profile Pages
 
 You can use the [editor on GitHub](https://github.com/Ysanne278/Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
